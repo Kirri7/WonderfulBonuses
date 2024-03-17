@@ -1,4 +1,4 @@
 * [ ] Убрать рекламу
 * [ ] Добавить minecraft flex.gif
 
- <img src="https://media1.tenor.com/m/zhVCud4jIKkAAAAC/evoker-minecraft.gif" width="40" height="40" />
+ <img src="https://giphy.com/clips/minecraft-mojang-sandbox-game-minecraft-live-xuKKNNyZupc16XMAg3" width="400" height="400" />
