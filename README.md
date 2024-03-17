@@ -1,4 +1,4 @@
 * [ ] Убрать рекламу
 * [ ] Добавить minecraft flex.gif
 
- <img src="https://giphy.com/clips/minecraft-mojang-sandbox-game-minecraft-live-xuKKNNyZupc16XMAg3" width="40" height="40" />
+ <img src="https://media.giphy.com/media/D9guLzYdtldbPYmJph/giphy.gif" width="200" height="200" />
